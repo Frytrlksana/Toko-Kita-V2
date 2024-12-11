@@ -211,7 +211,7 @@
                   <li>
                     <button class="mobile-btn-cart">
                       <i class="las la-shopping-bag"></i>
-                      <small class="cart-counter bg-light-green">{{ Cart::count() }}</small>
+                      <small class="cart-counter bg-custom-brown">{{ Cart::count() }}</small>
                     </button>
                   </li>
                 </ul>
@@ -354,7 +354,7 @@
                 @if(Auth::check()) <!-- Check if the user is logged in -->
                     <button class="btn-cart" id="cart-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         <i class="las la-shopping-bag"></i>
-                        <small class="cart-counter bg-light-green">{{ Cart::count() }}</small> <!-- Total Count -->
+                        <small class="cart-counter bg-custom-brown">{{ Cart::count() }}</small> <!-- Total Count -->
                     </button>
                     <div class="cart-dropdown dropdown-menu" aria-labelledby="cart-dropdown">
                         <h3 class="title-text">Cart Items: {{ Cart::count() }}</h3>
@@ -395,7 +395,7 @@
                 @else
                     <button class="btn-cart" onclick="window.location.href='{{ url('/login') }}'" aria-haspopup="true" aria-expanded="false">
                         <i class="las la-shopping-bag"></i>
-                        <small class="cart-counter bg-light-green">0</small> <!-- Total Count -->
+                        <small class="cart-counter bg-custom-brown">0</small> <!-- Total Count -->
                     </button>
                     <div class="cart-dropdown dropdown-menu" aria-labelledby="cart-dropdown">
                         <h3 class="title-text">You need to login to view your cart.</h3>

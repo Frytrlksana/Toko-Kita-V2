@@ -31,6 +31,18 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 }
+.bg-custom-brown {
+  background-color: #74512D;
+}
+
+.text-custom-brown {
+  background-color: #74512D;
+}
+
+.bg-custom-brown2 {
+  background-color: #543310;
+}
+
 
 ::selection {
   color: #ffffff;
@@ -650,7 +662,7 @@ strong, span, small, label, i {
   z-index: -1;
   content: "";
   position: absolute;
-  background: #36415a;
+  background: #442a0e;
   transition: width 0.3s linear;
 }
 .btn:hover {
@@ -718,7 +730,7 @@ strong, span, small, label, i {
   font-size: 14px;
   font-weight: 500;
   position: relative;
-  color: #36415a;
+  color: #74512D;
   display: inline-block;
 }
 .btn-underline:after, .btn-underline:before {
@@ -729,7 +741,7 @@ strong, span, small, label, i {
   content: "";
   line-height: 1;
   position: absolute;
-  background-color: #36415a;
+  background-color: #543310;
 }
 .btn-underline:before {
   transform-origin: 100% 50%;
@@ -739,13 +751,13 @@ strong, span, small, label, i {
   transform: scaleX(0);
   transform-origin: 0 50%;
   transition: 0.3s linear 0.2s;
-  background-color: #334eff;
+  background-color: #543310;
 }
 .btn-underline:hover {
-  color: #334eff;
+  color: #543310;
 }
 .btn-underline:hover:after, .btn-underline:hover:before {
-  background-color: #334eff;
+  background-color: #543310;
 }
 .btn-underline:hover:before {
   transform: scaleX(0);
@@ -848,7 +860,7 @@ strong, span, small, label, i {
 }
 
 .text-light-green {
-  color: #00c9a7 !important;
+  color: #74512D !important;
 }
 
 /* custom colors - end
@@ -967,7 +979,7 @@ button {
   line-height: 1;
   font-size: 30px;
   position: relative;
-  color: #36415a;
+  color: #74512D;
 }
 .header-section .btns-group > ul > li > button:hover, .header-section .btns-group > ul > li > button.active {
   color: #334eff;
@@ -1015,7 +1027,7 @@ button {
   font-size: 15px;
   font-weight: 500;
   line-height: 65px;
-  color: #636778;
+  color: #AF8F6F;
 }
 .header-section .main-menu > ul > li:hover > a, .header-section .main-menu > ul > li.active > a {
   color: #334eff;
@@ -1147,7 +1159,7 @@ button {
   color: #00c9a7;
 }
 .header-primary .main-menu .menu-item-has-child .submenu .menu-item-has-child:hover > a:after {
-  color: #00c9a7;
+  color: #543310;
 }
 
 .mega_menu {
@@ -4312,10 +4324,10 @@ button {
   background-color: #ffffff;
 }
 .home-v1 .btn-underline:hover {
-  color: #00c9a7;
+  color: #543310;
 }
 .home-v1 .btn-underline:hover:after, .home-v1 .btn-underline:hover:before {
-  background-color: #00c9a7;
+  background-color: #543310;
 }
 .home-v1 .social-icon-circle > ul > li > a:hover {
   color: #00c9a7;
@@ -4327,10 +4339,10 @@ button {
 /* global reset - end */
 /* header section - start */
 .home-v1 .header-section .main-menu > ul > li:hover > a, .home-v1 .header-section .main-menu > ul > li.active > a {
-  color: #00c9a7;
+  color: #543310;
 }
 .home-v1 .header-section .btns-group > ul > li > button:hover, .home-v1 .header-section .btns-group > ul > li > button.active {
-  color: #00c9a7;
+  color: #AF8F6F;
 }
 .home-v1 .cart-dropdown .cart-items-list > ul > li .item-price {
   color: #00c9a7;

@@ -11,7 +11,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 
-		<title>Medisia E-Commerce</title>
+		<title>Toko Kita</title>
 
 	</head>
 
@@ -36,7 +36,7 @@
 			<section id="slider-section" class="slider-section clearfix">
 				<div id="main-carousel" class="main-carousel arrow-right-left owl-carousel owl-theme">
 
-					<div class="item d-flex align-items-center" data-background="assets/images/slider/bg_1.jpg">
+					<div class="item d-flex align-items-center" data-background="assets/images/slider/bg_4.png">
 						<div class="container">
 							<div class="row justify-content-lg-start justify-content-md-center">
 								<div class="col-lg-7 col-md-9 col-sm-12 col-xs-12">
@@ -50,8 +50,8 @@
 										</p>
 										<div class="btns-group ul-li animate-item clearfix">
 											<ul class="clearfix">
-												<li><a href="{{ url('/product') }}" class="btn bg-light-green">SHOP NOW</a></li>
-												<li><a href="{{ url('/about') }}" class="btn bg-default-black">LEARN MORE</a></li>
+												<li><a href="{{ url('/product') }}" class="btn bg-custom-brown">SHOP NOW</a></li>
+												<li><a href="{{ url('/about') }}" class="btn bg-custom-brown2">LEARN MORE</a></li>
 											</ul>
 										</div>
 									</div>
@@ -60,7 +60,7 @@
 						</div>
 					</div>
 
-					<div class="item d-flex align-items-center" data-background="assets/images/slider/bg_3.jpg">
+					<div class="item d-flex align-items-center" data-background="assets/images/slider/bg_1.png">
 						<div class="container">
 							<div class="row justify-content-lg-start justify-content-md-center">
 								<div class="col-lg-7 col-md-9 col-sm-12 col-xs-12">
@@ -74,8 +74,8 @@
 										</p>
 										<div class="btns-group ul-li animate-item clearfix">
 											<ul class="clearfix">
-												<li><a href="{{ url('/product') }}" class="btn bg-light-green">SHOP NOW</a></li>
-												<li><a href="{{ url('/about') }}" class="btn bg-default-black">LEARN MORE</a></li>
+												<li><a href="{{ url('/product') }}" class="btn bg-custom-brown">SHOP NOW</a></li>
+												<li><a href="{{ url('/about') }}" class="btn bg-custom-brown2">LEARN MORE</a></li>
 											</ul>
 										</div>
 									</div>
@@ -84,7 +84,7 @@
 						</div>
 					</div>
 
-					<div class="item d-flex align-items-center" data-background="assets/images/slider/bg_4.jpg">
+					<div class="item d-flex align-items-center" data-background="assets/images/slider/bg_3.png">
 						<div class="container">
 							<div class="row text-center justify-content-center justify-content-md-center">
 								<div class="col-lg-7 col-md-9 col-sm-12 col-xs-12">
@@ -98,8 +98,8 @@
 										</p>
 										<div class="btns-group ul-li-center animate-item clearfix">
 											<ul class="clearfix">
-												<li><a href="{{ url('/product') }}" class="btn bg-light-green">SHOP NOW</a></li>
-												<li><a href="{{ url('/about') }}" class="btn bg-default-black">LEARN MORE</a></li>
+												<li><a href="{{ url('/product') }}" class="btn bg-custom-brown">SHOP NOW</a></li>
+												<li><a href="{{ url('/about') }}" class="btn bg-custom-brown2">LEARN MORE</a></li>
 											</ul>
 										</div>
 									</div>
@@ -124,13 +124,13 @@
 						<div class="grid-item">
 							<div class="promotion-fullimage clearfix">
 								<a href="#!" class="item-image">
-									<img src="assets/images/promotion/img_1.jpg" alt="image_not_found">
+									<img src="assets/images/promotion/img_1.png" alt="image_not_found">
 								</a>
 								<div class="promotion-content position-bottom text-right">
 									<h3 class="item-title">
 										<strong class="text-light-green d-block mb-1">50% OFF</strong> For First Purchase
 									</h3>
-									<a href="{{ url('/product') }}" class="btn bg-light-green">SHOP NOW</a>
+									<a href="{{ url('/product') }}" class="btn bg-custom-brown">SHOP NOW</a>
 								</div>
 							</div>
 						</div>
@@ -138,7 +138,7 @@
 						<div class="grid-item w-66">
 							<div class="promotion-fullimage clearfix">
 								<a href="#!" class="item-image">
-									<img src="assets/images/promotion/img_2.jpg" alt="image_not_found">
+									<img src="assets/images/promotion/img_2.png" alt="image_not_found">
 								</a>
 								<div class="promotion-content size-increase position-vertical-center">
 									<h3 class="item-title">
