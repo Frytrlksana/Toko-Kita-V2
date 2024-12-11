@@ -152,7 +152,7 @@
 						<div class="grid-item">
 							<div class="promotion-fullimage clearfix">
 								<a href="#!" class="item-image">
-									<img src="assets/images/promotion/img_3.jpg" alt="image_not_found">
+									<img src="assets/images/promotion/img_3.png" alt="image_not_found">
 								</a>
 								<div class="promotion-content position-bottom text-right">
 									<h3 class="item-title">
@@ -166,7 +166,7 @@
 						<div class="grid-item">
 							<div class="promotion-fullimage clearfix">
 								<a href="#!" class="item-image">
-									<img src="assets/images/promotion/img_4.jpg" alt="image_not_found">
+									<img src="assets/images/promotion/img_4.png" alt="image_not_found">
 								</a>
 								<div class="promotion-content position-top size-decrease">
 									<small class="d-block text-white mb-1">Medical Supplies</small>
@@ -288,7 +288,7 @@
 						</div>
 					</div>
 							<div class="btn-wrap text-center clearfix">
-								<a href="{{ url('/product') }}" class="btn bg-light-green">VIEW ALL</a>
+								<a href="{{ url('/product') }}" class="btn bg-custom-brown">VIEW ALL</a>
 							</div>
 					</div>
 
@@ -328,7 +328,7 @@
 						<div class="btns-group ul-li mb-30">
 							<ul class="clearfix">
 								<li>
-									<a href="#!" class="btn bg-light-green" onclick="event.preventDefault(); document.getElementById('add-to-cart-{{ $product->id }}').submit();">Add to Cart</a>      
+									<a href="#!" class="btn bg-custom-brown" onclick="event.preventDefault(); document.getElementById('add-to-cart-{{ $product->id }}').submit();">Add to Cart</a>      
 								</li>
 							{{-- <li><a href="#!" data-toggle="tooltip" data-placement="top" title="Add To Wishlist"><i class="lar la-heart"></i></a></li> --}}
 							</ul>
@@ -378,7 +378,7 @@
 										<div class="countdown-timer ul-li mb-30 clearfix">
 											<ul class="countdown-list" data-countdown="2024/11/30"></ul>
 										</div>
-										<a href="{{ url('/product') }}" class="btn bg-light-green">SHOP NOW</a>
+										<a href="{{ url('/product') }}" class="btn bg-custom-brown">SHOP NOW</a>
 									</div>
 								</div>
 								
@@ -532,7 +532,7 @@
 
 								<div class="form-item">
 									<input type="email" name="email" placeholder="Enter your email">
-									<button type="submit" class="btn bg-light-green">SUBSCRIBE</button>
+									<button type="submit" class="btn bg-custom-brown">SUBSCRIBE</button>
 								</div>
 
 								<div class="checkbox-btn">

@@ -132,8 +132,8 @@
     
                         <div class="btns-group ul-li clearfix">
                             <ul class="clearfix">
-                                <li><a href="{{ url('cart') }}" class="btn bg-default-black">View Cart</a></li>
-                                <li><a href="{{ route('admin.checkout.index') }}" class="btn bg-light-green">Checkout</a></li>
+                                <li><a href="{{ url('cart') }}" class="btn bg-custom-brown">View Cart</a></li>
+                                <li><a href="{{ route('admin.checkout.index') }}" class="btn bg-custom-brown">Checkout</a></li>
                             </ul>
                         </div>
                     @else
@@ -281,9 +281,17 @@
                       @guest
                           <!-- If the user is not logged in -->
                           <ul class="clearfix">
-                              <li><a href="{{ route('login') }}"><i class="las la-sign-in-alt"></i> Login</a></li>
-                              <li><a href="{{ route('register') }}"><i class="las la-user-plus"></i> Register</a></li>
-                          </ul>
+                            <li>
+                                <a href="{{ route('login') }}" class="text-light-green">
+                                    <i class="las la-sign-in-alt"></i> Login
+                                </a>
+                            </li>
+                            <li>
+                                <a href="{{ route('register') }}" class="text-light-green">
+                                    <i class="las la-user-plus"></i> Register
+                                </a>
+                            </li>
+                        </ul>                        
                       @endguest
                   </div>
               </li>
