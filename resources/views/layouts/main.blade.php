@@ -278,6 +278,7 @@
                           </ul>
                       @endauth
               
+                      
                       @guest
                           <!-- If the user is not logged in -->
                           <ul class="clearfix">
