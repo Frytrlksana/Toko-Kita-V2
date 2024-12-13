@@ -79,7 +79,7 @@
                       <input type="number" name="quantity" class="quantity form-control input-number"
                         value="{{ $product->qty }}" min="1" max="100">
                     </div>
-                    <button type="submit" class="btn bg-light-green py-2" style="color: white !important;">Save</button>
+                    <button type="submit" class="btn bg-custom-brown py-2" style="color: white !important;">Save</button>
                   </form>
                 </td>
 
@@ -121,7 +121,7 @@
           </p>
         </div>
         <p class="text-center">
-          <a href="{{ route('admin.checkout.index') }}" class="btn bg-light-green py-3 px-4">
+          <a href="{{ route('admin.checkout.index') }}" class="btn bg-custom-brown py-3 px-4">
             Proceed to Checkout
           </a>
         </p>

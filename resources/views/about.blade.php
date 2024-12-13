@@ -41,11 +41,20 @@
       <div class="col-lg-6 col-md-8 col-sm-10 col-xs-12">
         <div class="about-content">
           <h2 class="title-text mb-40">The Best Infrastructure</h2>
-          <p class="mb-30">
-            Medical e-commerce refers to the online buying and selling of medical products and services, including pharmaceuticals, medical devices, health-related products, and services like telemedicine consultations. This rapidly growing sector leverages technology to improve access to healthcare and streamline the purchasing process for both consumers and healthcare providers.
+          <p class="mb-20">
+            Selamat datang di TOKO KITA , tempat terbaik  untuk menikmati aneka jajanan dan minuman yang mengunggah selera !
+          </p>
+          <p class="mb-20">
+            Kami menyediakan aneka jajanan lezat dan minuman ssgar, semuanya dibuat dengan bahan berkualitas dan penuh cinta.
+          </p>
+          <p class="mb-20">
+            Nikmati momen seru bersama kami, baik di toko maupun di rumah. Karena di sini rasa tak pernah bohong!
+          </p>
+          <p class="mb-20">
+            Kami percaya bahwa setiap gigitan dan teguan harus membawa kebahagiaan!
           </p>
           <p class="mb-60">
-            Medical e-commerce is transforming the way patients and healthcare providers interact and transact. With advancements in technology and increasing consumer demand, this sector is poised for significant growth, promising to enhance healthcare accessibility and efficiency.
+            TOKO KITA - Tempat Jajanan & Minuman Favorit Anda!
           </p>
           <a href="#!" class="btn bg-custom-brown">Contact Us</a>
         </div>
@@ -54,11 +63,14 @@
 
     <div class="about-video text-center mb-100 clearfix">
       <h3 class="title-text mb-60">
-        We offer and expand customized and innovative healthcare programs to our clients. 
+        TOKO KITA, Your Loyal Friend Every Sweet Moment! 
       </h3>
       <div class="video-wrap">
         <img src="assets/images/about/img_2.jpg" alt="image_not_found">
-        <a class="play-btn pulse" href="http://www.youtube.com/watch?v=0O2aH4XLbto">
+        <a class="play-btn pulse" href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126629.74596701816!2d112.64824901640625!3d-7.333721200000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fab87edcad15%3A0xb26589947991eea1!2sUniversitas%20Pembangunan%20Nasional%20%E2%80%9CVeteran%E2%80%9D%20Jawa%20Timur!5e0!3m2!1sen!2sid!4v1734095118385!5m2!1sen!2sid" target="_blank">
+    Open in Google Maps
+</a>
+
           <span></span>
         </a>
       </div>

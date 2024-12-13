@@ -89,7 +89,7 @@
             </div>
           </div>
           <div class="w-100"></div>
-          <button class="d-block mx-auto btn bg-light-green py-3 px-4" style="width:70% !important;">Login</button>
+          <button class="d-block mx-auto btn bg-custom-brown py-3 px-4" style="width:70% !important;">Login</button>
         </form>
 
         <p class="mt-4 text-center">Need an account ? <a href="{{ route('register') }}">Register

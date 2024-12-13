@@ -17,6 +17,10 @@ body {
     height: 100vh;
 }
 
+.bg-custom-brown {
+    background-color: #74512D;
+ }
+
 .container {
     background-color: #fff;
     border-radius: 30px;

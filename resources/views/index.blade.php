@@ -11,7 +11,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 
-		<title>Toko Kita</title>
+		<title>TokoKita | Tampatnya Camilan & Minuman</title>
 
 	</head>
 
@@ -35,7 +35,6 @@
 			================================================== -->
 			<section id="slider-section" class="slider-section clearfix">
 				<div id="main-carousel" class="main-carousel arrow-right-left owl-carousel owl-theme">
-
 					<div class="item d-flex align-items-center" data-background="assets/images/slider/bg_4.png">
 						<div class="container">
 							<div class="row justify-content-lg-start justify-content-md-center">
@@ -65,9 +64,9 @@
 							<div class="row justify-content-lg-start justify-content-md-center">
 								<div class="col-lg-7 col-md-9 col-sm-12 col-xs-12">
 									<div class="slider-content">
-										<span class="post-type animate-item"># Medical Store</span>
+										<span class="post-type animate-item"># Toko Kita</span>
 										<h3 class="item-title animate-item">
-											Medisia Medical Service and E-Commerce
+											TOKO KITA - Tempatnya Camilan & Minuman
 										</h3>
 										<p class="animate-item">
 											Medisia as always focused on the best treatments with affordable price through the best medical services.
@@ -89,9 +88,9 @@
 							<div class="row text-center justify-content-center justify-content-md-center">
 								<div class="col-lg-7 col-md-9 col-sm-12 col-xs-12">
 									<div class="slider-content">
-										<span class="post-type animate-item"># Medical Store</span>
+										<span class="post-type animate-item"># Toko Kita</span>
 										<h3 class="item-title animate-item">
-											Medisia Medical Service and E-Commerce
+											TOKO KITA - Tempatnya Camilan & Minuman
 										</h3>
 										<p class="animate-item">
 											Medisia as always focused on the best treatments with affordable price through the best medical services.
@@ -192,13 +191,13 @@
 				<div class="container">
 					<div class="section-title text-center mb-70">
 						<h2 class="title-text mb-3">Our Product</h2>
-						<p class="mb-0">Shopping Over $59 or first purchase you will get 100% free shipping</p>
+						<p class="mb-0">Enjoy special discounts and free shipping for your first purchase!</p>
 					</div>
 
 					<div class="tabs-nav ul-li-center clearfix">
 						<ul class="nav" role="tablist">
 							<li>
-								<a class="active" href="#popular-items" data-toggle="tab" role="tab">Popular Items</a>
+								<a class="active" href="#popular-items" data-toggle="tab" role="tab">Best Sellers</a>
 							</li>
 						</ul>
 					</div>
@@ -356,7 +355,7 @@
 			================================================== -->
 
 
-			<!-- offer-section - start
+			{{-- <!-- offer-section - start
 			================================================== -->
 			<section id="offer-section" class="offer-section clearfix">
 				<div class="wrap-1600 sec-ptb-100 bg-gray decoration-wrap clearfix">
@@ -395,7 +394,7 @@
 				</div>
 			</section>
 			<!-- offer-section - end
-			================================================== -->
+			================================================== --> --}}
 
 
 			<!-- policy-section - start
@@ -406,23 +405,11 @@
 
 						<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 							<div class="policy-default clearfix">
-								<div class="item-icon"><i class="las la-shipping-fast"></i></div>
-								<div class="item-content">
-									<h3 class="item-title">Free Shipping</h3>
-									<p class="mb-0">
-										Shopping Over $59 or first purchase you will get 100% free shipping
-									</p>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-							<div class="policy-default clearfix">
 								<div class="item-icon"><i class="las la-wallet"></i></div>
 								<div class="item-content">
-									<h3 class="item-title">30 Days Return policy</h3>
+									<h3 class="item-title">Enjoy Discounted Prices!</h3>
 									<p class="mb-0">
-										Faces any problem with our product? don’t worry we will refund.
+										Get a special discount of 10% for every purchase above IDR 200,000. Come shopping now!
 									</p>
 								</div>
 							</div>
@@ -430,11 +417,23 @@
 
 						<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 							<div class="policy-default clearfix">
-								<div class="item-icon"><i class="las la-headset"></i></div>
+								<div class="item-icon"><i class="las la-shipping-fast"></i></div>
 								<div class="item-content">
-									<h3 class="item-title">24/7 Coustomer Support</h3>
+									<h3 class="item-title">Fast and Responsive Service</h3>
 									<p class="mb-0">
-										Our dedicated support engneer are waiting for assist you.
+										We are ready to serve you promptly and ensure your satisfaction!
+									</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+							<div class="policy-default clearfix">
+								<div class="item-icon"><i class="las la-laptop"></i></div>
+								<div class="item-content">
+									<h3 class="item-title">Work & Study Comfort</h3>
+									<p class="mb-0">
+										Enjoy a comfortable atmosphere with work desk facilities, a place to do assignments, and free WiFi.
 									</p>
 								</div>
 							</div>
@@ -453,8 +452,8 @@
 				<div class="container">
 
 					<div class="section-title text-center mb-70">
-						<h2 class="title-text mb-3">New Arraivals</h2>
-						<p class="mb-0">Shopping Over $59 or first purchase you will get 100% free shipping</p>
+						<h2 class="title-text mb-3">Get a Free Menu!</h2>
+						<p class="mb-0">Special for you! Every payment above IDR 200,000 will get a free menu of our choice. Don't miss this opportunity!</p>
 					</div>
 
 					<div id="column-4-carousel" class="column-4-carousel arrow-right-left owl-carousel owl-theme">

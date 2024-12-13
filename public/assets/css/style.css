@@ -43,6 +43,9 @@ body {
   background-color: #543310;
 }
 
+.bg-custom-brown3 {
+  background-color: #AF8F6F;
+}
 
 ::selection {
   color: #ffffff;
@@ -135,7 +138,7 @@ img {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
-  color: #36415a;
+  color: #543310;
   font-family: "Heebo", sans-serif;
 }
 
@@ -4330,10 +4333,10 @@ button {
   background-color: #543310;
 }
 .home-v1 .social-icon-circle > ul > li > a:hover {
-  color: #00c9a7;
+  color: #543310;
 }
 .home-v1 #backtotop #scroll {
-  color: #00c9a7;
+  color: #543310;
 }
 
 /* global reset - end */
@@ -4345,7 +4348,7 @@ button {
   color: #AF8F6F;
 }
 .home-v1 .cart-dropdown .cart-items-list > ul > li .item-price {
-  color: #00c9a7;
+  color: #74512D;
 }
 .home-v1 .user-dropdown .profile-info:hover .user-name > a {
   color: #00c9a7;
@@ -4390,7 +4393,7 @@ button {
 /* shop section - end */
 /* policy section - start */
 .home-v1 .policy-default .item-icon {
-  border-color: #00c9a7;
+  border-color: #74512D;
 }
 
 /* policy section - end */

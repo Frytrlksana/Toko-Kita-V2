@@ -138,7 +138,7 @@
                 <span class="total">{{ $total }}</span>
               </p>
 
-              <button class="btn bg-light-green py-3 px-4" id="pay-btn" type="button">
+              <button class="btn bg-custom-brown py-3 px-4" id="pay-btn" type="button">
                 {{-- <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
                 Processing... --}}
                 Place Order

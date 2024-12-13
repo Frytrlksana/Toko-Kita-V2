@@ -11651,11 +11651,11 @@ h5,
     font-weight: 500;
 }
 .table .thead-primary {
-    background: #00c9a7;
+    background: #74512D;
 }
 .table .thead-primary tr th {
     padding: 20px 10px;
-    color: #fff !important;
+    color: #F8F4E1;
     border: 1px solid transparent !important;
 }
 .table tbody tr td {

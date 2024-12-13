@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>Medisia | Medical Tools E-Commerce</title>
+  <title>TokoKita | Tampatnya Camilan & Minuman</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -116,7 +116,7 @@
                                         </div>
                                         <div class="item-content">
                                             <h4 class="item-title">{{ $item->name }}</h4>
-                                            <span class="item-price">${{ number_format($item->price, 2) }}</span>
+                                            <span class="item-price">Rp. {{ number_format($item->price, 2) }}</span>
                                         </div>
                                         <form action="{{ route('cart.delete') }}" method="POST" style="display: inline;">
                                             @csrf
@@ -395,8 +395,8 @@
             
                         <div class="btns-group ul-li clearfix">
                             <ul class="clearfix">
-                                <li><a href="{{ url('cart') }}" class="btn bg-default-black">View Cart</a></li>
-                                <li><a href="{{ route('admin.checkout.index') }}" class="btn bg-light-green">Checkout</a></li>
+                                <li><a href="{{ url('cart') }}" class="btn bg-custom-brown3">View Cart</a></li>
+                                <li><a href="{{ route('admin.checkout.index') }}" class="btn bg-custom-brown">Checkout</a></li>
                             </ul>
                         </div>
 
