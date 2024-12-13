@@ -41,9 +41,9 @@
 							<div class="row justify-content-lg-start justify-content-md-center">
 								<div class="col-lg-7 col-md-9 col-sm-12 col-xs-12">
 									<div class="slider-content">
-										<span class="post-type animate-item"># Medical Store</span>
+										<span class="post-type animate-item"># Toko Kita</span>
 										<h3 class="item-title animate-item">
-											Medisia Medical Service and E-Commerce
+											TOKO KITA - Tempatnya Camilan & Minuman
 										</h3>
 										<p class="animate-item">
 											Medisia as always focused on the best treatments with affordable price through the best medical services.

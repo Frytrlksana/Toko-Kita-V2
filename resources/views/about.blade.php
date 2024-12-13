@@ -47,7 +47,7 @@
           <p class="mb-60">
             Medical e-commerce is transforming the way patients and healthcare providers interact and transact. With advancements in technology and increasing consumer demand, this sector is poised for significant growth, promising to enhance healthcare accessibility and efficiency.
           </p>
-          <a href="#!" class="btn bg-royal-blue">Contact Us</a>
+          <a href="#!" class="btn bg-custom-brown">Contact Us</a>
         </div>
       </div>
     </div>
@@ -114,7 +114,7 @@
       <div class="col-md-6 heading-section ftco-animate deal-of-the-day ftco-animate">
         <span class="subheading">Best Deal For You</span>
         <h2 class="mb-4">Get Medical Tools You Need</h2>
-        <a href="{{ route('product.index') }}" class="btn bg-royal-blue">
+        <a href="{{ route('product.index') }}" class="btn bg-custom-brown">
           View Products
         </a>
       </div>

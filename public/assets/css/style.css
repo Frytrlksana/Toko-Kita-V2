@@ -1862,10 +1862,10 @@ button {
   color: #8991ab;
 }
 .breadcrumb-section .breadcrumb-nav > ul > li:hover > a {
-  color: #334eff;
+  color: #543310;
 }
 .breadcrumb-section .breadcrumb-nav > ul > li.active {
-  color: #334eff;
+  color: #543310;
 }
 .breadcrumb-section .pill-image-1 {
   left: -73px;
@@ -4292,7 +4292,7 @@ button {
 /* global reset - start */
 .home-v1 ::selection {
   color: #ffffff;
-  background: #00c9a7;
+  background: #AF8F6F;
 }
 .home-v1 ::-moz-selection {
   color: #ffffff;
@@ -4378,13 +4378,13 @@ button {
 /* main carousel - end */
 /* shop section - start */
 .home-v1 .shop-section .tabs-nav > ul > li > a:hover, .home-v1 .shop-section .tabs-nav > ul > li > a.active {
-  border-color: #00c9a7;
+  border-color: #74512D;
 }
 .home-v1 .product-grid .btns-group > ul > li > a:hover {
   color: #00c9a7;
 }
 .home-v1 .product-grid .item-price {
-  color: #00c9a7;
+  color: #543310;
 }
 
 /* shop section - end */
