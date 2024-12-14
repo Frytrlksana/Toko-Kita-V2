@@ -452,9 +452,7 @@
 									</a>
 								</div>
 								<p class="mb-30">
-									Medisia is an online medical service and
-									medicine E-Commerce theme for your ultimate
-									online store and medical service.
+									Kami percaya bahwa setiap gigitan dan teguan harus membawa kebahagiaan! TOKO KITA - Tempat Jajanan & Minuman Favorit Anda!
 								</p>
 								<div class="contact-info ul-li-block clearfix">
 									<ul class="clearfix">
@@ -467,7 +465,7 @@
 										<li>
                       <span><i class="las la-envelope-open-text"></i></span>
                       <a href="mailto:medisiaecommerce@gmail.com">
-                          Medisiaecommerce@gmail.com
+                          Tokokita@gmail.com
                       </a>
                   </li>                  
                   <li>
@@ -485,12 +483,12 @@
 							<div class="useful-links ul-li-block clearfix">
 								<h3 class="widget-title">Products</h3>
 								<ul class="clearfix">
-									<li><a href="#!">Medicines</a></li>
-									<li><a href="#!">Vitamins & Supplements</a></li>
-									<li><a href="#!">Accessories</a></li>
-									<li><a href="#!">Medical Equipment</a></li>
+									<li><a href="#!">Chocolates</a></li>
+									<li><a href="#!">Biscuits and Cookies</a></li>
+									<li><a href="#!">Ice Cream</a></li>
+									<li><a href="#!">Pastries and Cakes</a></li>
+									<li><a href="#!">Candy and Sweets</a></li>
 									<li><a href="#!">All Products</a></li>
-									<li><a href="#!">Doctor Equipment</a></li>
 									<li><a href="#!">Offer Sale</a></li>
 								</ul>
 							</div>
@@ -518,7 +516,7 @@
 									<li><a href="#!"><img src="assets/images/payment_card/card_2.png" alt="_not_found" width="40" height="21"></a></li>
 									<li><a href="#!"><img src="assets/images/payment_card/card_3.png" alt="_not_found" width="50" height="25"></a></li>
 								</ul>
-								<p class="mb-0">Powred by <a href="#!">Lucky</a></p>
+								<p class="mb-0">Powred by <a href="#!">TokoKita</a></p>
 							</div>
 
 							<div class="social-icon-circle ul-li clearfix">
@@ -535,7 +533,7 @@
 				</div>
 
 				<div class="footer-bottom bg-gray text-center clearfix">
-					<p class="mb-0">©Copyright 2024 <a href="#!">Lucky Kurniawan</a>. All Rights Reserved.</p>
+					<p class="mb-0">©Copyright 2024 <a href="#!">Toko Kita</a>. All Rights Reserved.</p>
 					<span class="decoration-image pill-image-1">
 					</span>
 				</div>

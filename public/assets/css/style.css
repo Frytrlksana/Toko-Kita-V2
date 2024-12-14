@@ -1415,7 +1415,7 @@ button {
   transform: translateY(-50%);
 }
 .cart-dropdown .cart-items-list > ul > li .remove-btn:hover {
-  color: #334eff;
+  color: #74512D;
 }
 .cart-dropdown .cart-items-list > ul > li .item-image {
   max-width: 60px;
@@ -1815,7 +1815,7 @@ button {
   position: absolute;
 }
 .footer-section .footer-bottom.bg-gray {
-  background-color: #f4f8fb;
+  background-color: #F8F4E1;
 }
 .footer-section .footer-bottom p a {
   color: #5f6680;
@@ -4351,10 +4351,10 @@ button {
   color: #74512D;
 }
 .home-v1 .user-dropdown .profile-info:hover .user-name > a {
-  color: #00c9a7;
+  color: #74512D;
 }
 .home-v1 .user-dropdown .profile-info .user-title {
-  color: #00c9a7;
+  color: #74512D;
 }
 .home-v1 .user-dropdown > ul > li:hover > a > i {
   color: #543310;

@@ -12,7 +12,7 @@
 <div class="d-flex justify-content-center align-items-center" style="height: 18vh;">
 </div>
 
-<section id="breadcrumb-section" class="breadcrumb-section d-flex align-items-center decoration-wrap clearfix" style="background-image: url('{{ asset('assets/images/background/bg_1.jpg') }}');">
+<section id="breadcrumb-section" class="breadcrumb-section d-flex align-items-center decoration-wrap clearfix" style="background-image: url('{{ asset('assets/images/background/bg_1.png') }}');">
   <div class="container text-center">
     <h1 class="page-title mb-3">About Us</h1>
     <div class="breadcrumb-nav ul-li-center clearfix">
@@ -34,7 +34,7 @@
     <div class="row mb-100 align-items-center justify-content-lg-between justify-content-md-center justify-content-sm-center">
       <div class="col-lg-6 col-md-8 col-sm-10 col-xs-12">
         <div class="about-image">
-          <img src="assets/images/about/img_1.jpg" alt="image_not_found">
+          <img src="assets/images/about/img_1.png" alt="image_not_found">
         </div>
       </div>
 
@@ -66,7 +66,7 @@
         TOKO KITA, Your Loyal Friend Every Sweet Moment! 
       </h3>
       <div class="video-wrap">
-        <img src="assets/images/about/img_2.jpg" alt="image_not_found">
+        <img src="assets/images/about/img_2.png" alt="image_not_found">
         <a class="play-btn pulse" href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126629.74596701816!2d112.64824901640625!3d-7.333721200000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fab87edcad15%3A0xb26589947991eea1!2sUniversitas%20Pembangunan%20Nasional%20%E2%80%9CVeteran%E2%80%9D%20Jawa%20Timur!5e0!3m2!1sen!2sid!4v1734095118385!5m2!1sen!2sid" target="_blank">
     Open in Google Maps
 </a>
@@ -120,7 +120,7 @@
   </div>
 </section>
 
-<section class="ftco-section img my-5" style="background-image: url({{ asset('home-asset/images/bg_3.jpg') }});">
+<section class="ftco-section img my-5" style="background-image: url({{ asset('home-asset/images/bg_3.png') }});">
   <div class="container">
     <div class="row justify-content-end">
       <div class="col-md-6 heading-section ftco-animate deal-of-the-day ftco-animate">

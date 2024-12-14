@@ -12,7 +12,7 @@
 <div class="d-flex justify-content-center align-items-center" style="height: 18vh;">
 </div>
 
-<section id="breadcrumb-section" class="breadcrumb-section d-flex align-items-center decoration-wrap clearfix" style="background-image: url('{{ asset('assets/images/background/bg_1.jpg') }}');">
+<section id="breadcrumb-section" class="breadcrumb-section d-flex align-items-center decoration-wrap clearfix" style="background-image: url('{{ asset('assets/images/background/bg_1.png') }}');">
   <div class="container text-center">
     <h1 class="page-title mb-3">Login</h1>
     <div class="breadcrumb-nav ul-li-center clearfix">

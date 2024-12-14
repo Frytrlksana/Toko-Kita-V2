@@ -45,7 +45,7 @@
 											TOKO KITA - Tempatnya Camilan & Minuman
 										</h3>
 										<p class="animate-item">
-											Medisia as always focused on the best treatments with affordable price through the best medical services.
+											Kami percaya bahwa setiap gigitan dan teguan harus membawa kebahagiaan!
 										</p>
 										<div class="btns-group ul-li animate-item clearfix">
 											<ul class="clearfix">
@@ -69,7 +69,7 @@
 											TOKO KITA - Tempatnya Camilan & Minuman
 										</h3>
 										<p class="animate-item">
-											Medisia as always focused on the best treatments with affordable price through the best medical services.
+											Kami percaya bahwa setiap gigitan dan teguan harus membawa kebahagiaan!
 										</p>
 										<div class="btns-group ul-li animate-item clearfix">
 											<ul class="clearfix">
@@ -93,7 +93,7 @@
 											TOKO KITA - Tempatnya Camilan & Minuman
 										</h3>
 										<p class="animate-item">
-											Medisia as always focused on the best treatments with affordable price through the best medical services.
+											Kami percaya bahwa setiap gigitan dan teguan harus membawa kebahagiaan!
 										</p>
 										<div class="btns-group ul-li-center animate-item clearfix">
 											<ul class="clearfix">
