@@ -52,7 +52,7 @@
               <td>Rp {{ number_format($transaction->total, '0', '', '.') }}
               </td>
               <td class="d-print-none d-none d-xl-table-cell">
-                <a href="{{ route('admin.transaction.show', $transaction) }}" class="btn btn-info">Detail</a>
+                <a href="{{ route('admin.transaction.show', $transaction) }}" class="btn bg-custom-brown text-white">Detail</a>
               </td>
             </tr>
             @empty

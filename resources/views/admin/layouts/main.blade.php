@@ -23,12 +23,16 @@
     .sidebar-link i,
     .sidebar-link svg,
     .sidebar-header {
-      background-color: #00c9a7!important;
+      background-color: #AF8F6F!important;
       color: #ffffff !important;
     }
 
     .content {
-      background-color: #e4f1ff !important;
+      background-color: #F8F4E1 !important;
+    }
+
+    .bg-custom-brown {
+      background-color: #74512D;
     }
   </style>
 </head>
@@ -173,7 +177,7 @@
         <div class="container-fluid">
           <div class="row text-muted">
             <div class="col-6 text-left">
-              <p class="mb-0"><strong>Sok Kabeh</strong>
+              <p class="mb-0"><strong>Toko Kita</strong>
                 &copy;
               </p>
             </div>

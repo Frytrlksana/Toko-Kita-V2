@@ -90,7 +90,10 @@
         <form action="#!">
           <div class="form-item mb-0">
             <input type="search" name="search" placeholder="Search your Products">
-            <button type="submit"><i class="la la-search"></i></button>
+            <button type="submit">
+              <i class="la la-search" style="color: #74512D;"></i> 
+            </button>
+            
           </div>
         </form>
       </div>
@@ -181,9 +184,16 @@
       <div class="user-dropdown ul-li-block clearfix">
         <h3 class="widget-title">User Settings</h3>
         <ul class="clearfix">
-          <li><a href="#!"><i class="las la-user-circle"></i> Profile</a></li>
-          <li><a href="#!"><i class="las la-user-cog"></i> Settings</a></li>
-          <li><a href="#!"><i class="las la-sign-out-alt"></i> Logout</a></li>
+          <li><a href="{{ route('admin.profile.index') }}"><i class="las la-user-circle"></i> Profile</a></li>
+          <li><a href="{{ route('admin.profile.edit') }}"><i class="las la-user-cog"></i> Settings</a></li>
+          <li>
+            <a href="{{ route('admin.logout') }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
+                <i class="las la-sign-out-alt"></i> Logout
+            </a>
+            <form id="logout-form" action="{{ route('admin.logout') }}" method="POST" style="display: none;">
+                @csrf
+            </form>
+        </li>
         </ul>
       </div>
     </div>

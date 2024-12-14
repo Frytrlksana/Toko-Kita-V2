@@ -228,7 +228,7 @@
           <div class="btns-group ul-li mb-30">
             <ul class="clearfix">
               <li>
-                <a href="#!" class="btn bg-light-green" onclick="event.preventDefault(); document.getElementById('add-to-cart-{{ $product->id }}').submit();">Add to Cart</a>      
+                <a href="#!" class="btn bg-custom-brown" onclick="event.preventDefault(); document.getElementById('add-to-cart-{{ $product->id }}').submit();">Add to Cart</a>      
               </li>
                           {{-- <li><a href="#!" data-toggle="tooltip" data-placement="top" title="Add To Wishlist"><i class="lar la-heart"></i></a></li> --}}
             </ul>

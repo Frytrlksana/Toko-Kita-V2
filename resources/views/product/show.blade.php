@@ -51,7 +51,7 @@
               <div class="row mt-4">
                 <div class="input-group col-md-6 d-flex mb-3">
                   <span class="input-group-btn mr-2">
-                    <button type="button" class="quantity-left-minus btn bg-light-green"
+                    <button type="button" class="quantity-left-minus btn bg-custom-brown"
                       data-type="minus" data-field="">
                       <i class="ion-ios-remove"></i>
                     </button>
@@ -59,7 +59,7 @@
                   <input type="text" id="quantity" value="1" name="quantity"
                     class="form-control input-number" min="1" max="100">
                   <span class="input-group-btn ml-2">
-                    <button type="button" class="quantity-right-plus btn bg-light-green"
+                    <button type="button" class="quantity-right-plus btn bg-custom-brown"
                       data-type="plus" data-field="">
                       <i class="ion-ios-add"></i>
                     </button>
@@ -67,7 +67,7 @@
                 </div>
               </div>
               <p>
-                <button type="submit" class="btn bg-light-green py-3 px-5">
+                <button type="submit" class="btn bg-custom-brown py-3 px-5">
                   Add to Cart
                 </button>
               </p>
@@ -85,9 +85,9 @@
     <div class="container">
       <div class="row justify-content-center mb-3 pb-3">
         <div class="col-md-12 heading-section text-center ftco-animate">
-          <span class="subheading">Latest Products</span>
+          <span class="subheading">Recommended Products</span>
           <h2 class="mb-4">Our Products</h2>
-          <p>Solusi Menyediakan Alat Kesehatan Terlengkap</p>
+          <p>TOKO KITA - Tempat Jajanan & Minuman Favorit Anda!</p>
         </div>
       </div>
     </div>

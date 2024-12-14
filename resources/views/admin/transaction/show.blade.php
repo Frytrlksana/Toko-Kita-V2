@@ -15,7 +15,7 @@
         <div class="input-group mb-3">
           <input type="text" class="form-control py-2" placeholder="Reciept Number" name="reciept_number"
             value="{{ old('reciept_number', $transaction->reciept_number) }}">
-          <button class="btn btn-info" type="submit">
+          <button class="btn bg-custom-brown text-white" type="submit">
             @if ($transaction->reciept_number)
             Update Reciept Number
             @else

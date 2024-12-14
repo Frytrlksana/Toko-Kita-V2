@@ -11,7 +11,7 @@
         <div class="row justify-content-between">
           <div class="col-sm-3">
             <a href="{{ route('admin.product.create') }}"
-              class="btn btn-primary mb-3 d-block d-print-none"><i
+              class="btn bg-custom-brown mb-3 d-block d-print-none text-white"><i
                 data-feather="plus"></i>Add Product</a>
           </div>
           <div class="col-sm-3">

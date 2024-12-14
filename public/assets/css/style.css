@@ -530,7 +530,7 @@ strong, span, small, label, i {
   width: 100%;
   height: 100%;
   display: block;
-  color: #636778;
+  color: #74512D;
   font-size: 14px;
   padding: 0px 5px;
   line-height: 38px;
@@ -539,8 +539,8 @@ strong, span, small, label, i {
 }
 .pagination-nav > ul > li:hover > a, .pagination-nav > ul > li.active > a {
   color: #ffffff;
-  border-color: #334eff;
-  background-color: #334eff;
+  border-color: #74512D;
+  background-color: #74512D;
 }
 
 /* pagination nav - end
@@ -1086,7 +1086,7 @@ button {
 }
 .header-section .main-menu .menu-item-has-child:hover > a:after {
   content: "";
-  color: #334eff;
+  color: #74512D;
   transform: rotate(360deg);
 }
 .header-section .main-menu .menu-item-has-child .submenu {
@@ -1628,7 +1628,7 @@ button {
   transform: translateY(-50%);
 }
 .sidebar-menu-wrapper .sidebar-menu .cart-items-list > ul > li .remove-btn:hover {
-  color: #334eff;
+  color: #543310;
 }
 .sidebar-menu-wrapper .sidebar-menu .cart-items-list > ul > li .item-image {
   max-width: 60px;
@@ -1643,7 +1643,7 @@ button {
 }
 .sidebar-menu-wrapper .sidebar-menu .cart-items-list > ul > li .item-price {
   font-size: 13px;
-  color: #334eff;
+  color: #543310;
 }
 .sidebar-menu-wrapper .sidebar-menu .menu_list {
   margin-bottom: 35px;
@@ -1656,8 +1656,8 @@ button {
   color: #636778;
 }
 .sidebar-menu-wrapper .sidebar-menu .menu_list > ul li:hover > a, .sidebar-menu-wrapper .sidebar-menu .menu_list > ul li.active > a {
-  color: #334eff;
-  background-color: #f4f8fb;
+  color: #74512D;
+  background-color: #F8F4E1;
 }
 .sidebar-menu-wrapper .sidebar-menu .menu_list > ul li.dropdown {
   position: relative;
@@ -1677,7 +1677,7 @@ button {
   border: none;
   display: none;
   border-radius: 0px;
-  background-color: #fafcff;
+  background-color: #F8F4E1;
   position: static !important;
   transform: unset !important;
 }
@@ -1903,19 +1903,19 @@ button {
   content: "";
   height: 15px;
   position: absolute;
-  background-color: #334eff;
+  background-color: #543310;
 }
 .sidebar-section .sidebar-search input {
   width: 100%;
   height: 55px;
   outline: none;
   padding: 0px 25px;
-  background-color: #f4f8fb;
-  border: 1px solid #e2e4f4;
+  background-color: #F8F4E1;
+  border: 1px solid #AF8F6F;
   transition: 0.6s cubic-bezier(0.33, 1, 0.68, 1);
 }
 .sidebar-section .sidebar-search input:focus {
-  border-color: #334eff;
+  border-color: #AF8F6F;
 }
 .sidebar-section .sidebar-search button[type=submit] {
   top: 50%;
@@ -1923,7 +1923,7 @@ button {
   line-height: 1;
   font-size: 21px;
   position: absolute;
-  color: #334eff;
+  color: #AF8F6F;
   transform: translateY(-50%);
 }
 .sidebar-section .products-category > ul > li,
@@ -1940,7 +1940,7 @@ button {
 }
 .sidebar-section .products-category > ul > li > a:hover,
 .sidebar-section .brand-products > ul > li > a:hover {
-  color: #334eff;
+  color: #74512D;
 }
 .sidebar-section .price-range-area .slider-range {
   height: 6px;
@@ -3022,7 +3022,7 @@ button {
   display: block;
   font-size: 18px;
   font-weight: 500;
-  color: #334eff;
+  color: #74512D;
   transition: 0.4s cubic-bezier(0.33, 1, 0.68, 1);
 }
 .product-grid .rating-star {
@@ -3279,7 +3279,7 @@ button {
   display: block;
   font-size: 18px;
   font-weight: 500;
-  color: #334eff;
+  color: #74512D;
 }
 .product-fullimage .btns-group {
   top: 20px;
@@ -3412,7 +3412,7 @@ button {
   display: block;
   font-size: 30px;
   font-weight: 500;
-  color: #00c9a7;
+  color: #74512D;
 }
 .quickview-modal .list-title {
   font-weight: 500;

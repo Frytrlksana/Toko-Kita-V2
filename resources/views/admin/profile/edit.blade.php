@@ -104,7 +104,7 @@
                                     placeholder="Postal Code" value="{{ auth()->user()->postal_code }}">
                             </div>
                         </div>
-                        <button type="submit" class="btn btn-primary">Save changes</button>
+                        <button type="submit" class="btn bg-custom-brown text-white">Save changes</button>
                     </form>
 
                 </div>

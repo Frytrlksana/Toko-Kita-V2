@@ -10,7 +10,7 @@
 
         <div class="col-sm-3">
           <a href="{{ route('admin.category.create') }}"
-            class="btn btn-primary mb-3 d-block d-print-none"><i
+            class="btn bg-custom-brown mb-3 d-block d-print-none text-white"><i
               data-feather="plus"></i>Add Category</a>
         </div>
 

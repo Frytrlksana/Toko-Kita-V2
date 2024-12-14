@@ -11428,7 +11428,7 @@ h5,
 }
 .product .text p.price {
     margin-bottom: 0;
-    color: #467fae;
+    color: #74512D;
     font-weight: 400;
 }
 .product .text p.price span.price-dc {
@@ -11436,7 +11436,7 @@ h5,
     color: #b3b3b3;
 }
 .product .text p.price span.price-sale {
-    color: #467fae;
+    color: #74512D;
 }
 .product .text .pricing {
     width: 100%;
@@ -11465,7 +11465,7 @@ h5,
     cursor: pointer;
     color: #fff;
     width: 100%;
-    background: #467fae;
+    background: #74512D;
     width: 10rem;
     height: 2rem;
     margin: 0 auto;

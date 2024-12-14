@@ -136,7 +136,7 @@
             </div> --}}
 
             <div class="d-flex justify-content-end">
-              <button type="submit" class="btn btn-primary mr-2">
+              <button type="submit" class="btn bg-custom-brown mr-2 text-white">
                 Submit
               </button>
               <a class="btn btn-warning" href="{{ route('admin.product.index') }}">
