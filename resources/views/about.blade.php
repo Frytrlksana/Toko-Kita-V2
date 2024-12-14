@@ -84,8 +84,8 @@
           </span>
           <h3 class="item-title">Opening Time</h3>
           <ul class="clearfix">
-            <li>Sunday – Friday: 09:00am – 10:30pm</li>
-            <li>Saturday: 10:00am – 02:00pm</li>
+            <li>Sunday – Friday: 09:00 – 22:00</li>
+            <li>Saturday – Sunday: 09:00 – 00:00</li>
           </ul>
         </div>
       </div>
@@ -97,7 +97,7 @@
           </span>
           <h3 class="item-title">Contact Info.</h3>
           <ul class="clearfix">
-            <li>Email: Medisiaecommerce@gmail.com</li>
+            <li>Email: Tokokita@gmail.com</li>
             <li>Mobile: +62 895627560574</li>
           </ul>
         </div>
@@ -124,8 +124,8 @@
   <div class="container">
     <div class="row justify-content-end">
       <div class="col-md-6 heading-section ftco-animate deal-of-the-day ftco-animate">
-        <span class="subheading">Best Deal For You</span>
-        <h2 class="mb-4">Get Medical Tools You Need</h2>
+        <span class="subheading">Bundling!</span>
+        <h2 class="mb-4">Sweet and Sip Combo</h2>
         <a href="{{ route('product.index') }}" class="btn bg-custom-brown">
           View Products
         </a>
