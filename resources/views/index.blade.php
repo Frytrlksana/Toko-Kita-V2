@@ -141,7 +141,7 @@
 								</a>
 								<div class="promotion-content size-increase position-vertical-center">
 									<h3 class="item-title">
-										<strong class="text-light-green d-block mb-1">50% OFF</strong> <span class="d-block">Digital Electronic</span> <span class="d-block">Stethoscope</span>
+										<strong class="text-light-green d-block mb-1">50% OFF</strong> <span class="d-block">Food and</span> <span class="d-block">Drink</span>
 									</h3>
 									<a href="{{ url('/product') }}" class="btn-underline">Visit Store</a>
 								</div>
@@ -155,7 +155,7 @@
 								</a>
 								<div class="promotion-content position-bottom text-right">
 									<h3 class="item-title">
-										<span class="d-block">Get Digital</span> <span class="d-block">Thermometer</span>
+										<span class="d-block">Get</span> <span class="d-block">The Taste!</span>
 									</h3>
 									<a href="{{ url('/product') }}" class="btn-underline">Visit Store</a>
 								</div>
@@ -168,9 +168,9 @@
 									<img src="assets/images/promotion/img_4.png" alt="image_not_found">
 								</a>
 								<div class="promotion-content position-top size-decrease">
-									<small class="d-block text-white mb-1">Medical Supplies</small>
+									<small class="d-block text-white mb-1">Toko Kita</small>
 									<h3 class="item-title">
-										<span class="d-block">Coronavirus Medical</span> <span class="d-block">Supplies</span>
+										<span class="d-block">Tempat Jajanan </span> <span class="d-block">& Minuman</span>
 									</h3>
 									<a href="{{ url('/product') }}" class="btn-underline">Shop Now</a>
 								</div>
